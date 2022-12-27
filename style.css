@@ -1,0 +1,18 @@
+* {
+    background-color: beige;
+}
+
+p {
+    color: red;
+}
+
+a:hover {
+
+color: blue;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
